@@ -7,6 +7,9 @@ class Program
         string contents = "";
 
         System.Console.WriteLine("Öppnar byrålådan...");
+                System.Console.WriteLine("Öppnar byrålådan...");
+        Console.WriteLine("fasf");
+
 
         while (true)
         {
